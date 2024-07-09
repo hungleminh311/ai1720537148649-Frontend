@@ -1,0 +1,64 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "subtitle": "Experience luxury, reliability, and flexibility with our top-tier car rental services tailored for your journey.",
+        "title": "Drive Your Dreams with Our Premier Car Rentals"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Experience luxury, reliability, and flexibility with our top-tier car rental services tailored for your journey.",
+        "title": "Drive Your Dreams with Our Premier Car Rentals"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Experience luxury, reliability, and flexibility with our top-tier car rental services tailored for your journey.",
+        "title": "Drive Your Dreams with Our Premier Car Rentals"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Experience luxury, reliability, and flexibility with our top-tier car rental services tailored for your journey.",
+        "title": "Drive Your Dreams with Our Premier Car Rentals"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Experience luxury, reliability, and flexibility with our top-tier car rental services tailored for your journey.",
+        "title": "Drive Your Dreams with Our Premier Car Rentals"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Experience luxury, reliability, and flexibility with our top-tier car rental services tailored for your journey.",
+        "title": "Drive Your Dreams with Our Premier Car Rentals"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "subtitle": "Experience luxury, reliability, and flexibility with our top-tier car rental services tailored for your journey.",
+        "title": "Drive Your Dreams with Our Premier Car Rentals"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Experience luxury, reliability, and flexibility with our top-tier car rental services tailored for your journey.",
+        "title": "Drive Your Dreams with Our Premier Car Rentals"
+      }
+    }
+  ],
+  "theme": "minimal",
+  "font": "",
+  "title": "Drive Your Dreams with Our Premier Car Rentals",
+  "subtitle": "Experience luxury, reliability, and flexibility with our top-tier car rental services tailored for your journey."
+}
